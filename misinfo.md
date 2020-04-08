@@ -5,14 +5,14 @@
 
 The spreading of misinformation will cause some unpredictable issues to the national healthcare system. 
 
-### Case 1: Chloroquine has been approved to be used to treat COVID-19
+## Case 1: Chloroquine has been approved to be used to treat COVID-19
 
 In tragic news a man is dead and his wife is making a recovery in the US after they ingested a version of chloroquine, a substance Donald Trump falsely claimed had been approved to treat coronavirus.
 
 President Trump claimed at a press conference on March 19 that the US would be making chloroquine, used to treat malaria, "available almost immediately" and that it had been approved by the Food and Drug Administration.
 
 
-#### Misinformation propgation on social networks
+### Misinformation propgation on social networks
 
 We compare the social impact of misinformation and the opponents who are fighting to the misinformation. The social impact will be calculated by counting # of tweets, # of retweets, # of likes, and # of audiences. If a person received the misinformation at earlier stage, we will count him/her as Believed group (Label 1). If this person received the message against misinformation, we will categorise him/her to the Against group (Label 2).
 
@@ -33,7 +33,7 @@ The below figure display the spreading of misinformation over geo locations.
 
 
 
-#### Data acquistion
+### Data acquistion
 - Hashtags: #chloroquine
 - Related keywords: Donald Trump, Coronavirus.
 - Time: Since 19 Mar 2020
@@ -41,7 +41,7 @@ The below figure display the spreading of misinformation over geo locations.
 
 
 
-#### Labelling tweets
+### Labelling tweets
 - Label 1: Believed/Positive/Supportive comments to the misinformation. The people who retweet the misinformation will aslo belong to the support of spreading misinformation.
 
 https://twitter.com/realDonaldTrump/status/1241367239900778501
