@@ -33,6 +33,8 @@ This funcion is composed of three frames. The first frame is to choose configura
 - **Figure 1: An interactive map for summarised counts over locations.** 
 - Descriptions: ... ... ... ...
 
+_________________________________________________________________________________
+
 
 ### Statistic analysis for sentiment analysis
 
@@ -43,13 +45,16 @@ Each figure will occupy one page as similar to [COVID19 analytics report](https:
 - [Bar chart race](https://observablehq.com/@d3/bar-chart-race)<<<click it to see the interactive demo
 - **Figure 5: Sentiment trends over time for selected policy (counted on # of tweets)** 
 - Descriptions: ... ... ... ...
+
 _________________________________________________________________________________
+
 
 <img src="https://guodonglong.github.io/sentiment/pie-chart.png" height="60%" width="80%">
 
 - [Pie chart](https://www.d3-graph-gallery.com/pie)<<<click it to see the interactive demo
 - **Figure 1: Percentage for different sentiment groups.** 
 - Descriptions: ... ... ... ...
+
 _________________________________________________________________________________
 
 
@@ -58,6 +63,7 @@ ________________________________________________________________________________
 - [Grouped bar chart](https://observablehq.com/@d3/grouped-bar-chart)<<<click it to see the interactive demo
 - **Figure 2: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different age level.** 
 - Descriptions: ... ... ... ...
+
 _________________________________________________________________________________
 
 
@@ -66,6 +72,7 @@ ________________________________________________________________________________
 - [Grouped bar chart](https://observablehq.com/@d3/grouped-bar-chart)<<<click it to see the interactive demo
 - **Figure 3: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different gender.** 
 - Descriptions: ... ... ... ...
+
 _________________________________________________________________________________
 
 
@@ -74,6 +81,7 @@ ________________________________________________________________________________
 -[Bubble map](https://www.d3-graph-gallery.com/bubblemap.html)<<<click it to see the interactive demo
 - **Figure 4: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different state.** 
 - Descriptions: ... ... ... ...
+
 _________________________________________________________________________________
 
 
@@ -87,6 +95,7 @@ Each figure will occupy one page. Moreover, each word is linked to a list of rel
 - [Table chart](http://bl.ocks.org/AMDS/4a61497182b8fcb05906)<<<click it to see the interactive demo
 - **Figure 1: an overall list of topics derived from the tweets using topic modelling.** 
 - Descriptions: ... ... ... ...
+
 _________________________________________________________________________________
 
 
@@ -95,6 +104,7 @@ ________________________________________________________________________________
 - [Table chart](http://bl.ocks.org/AMDS/4a61497182b8fcb05906)<<<click it to see the interactive demo
 - **Figure 2: topics derived from different sentiment groups.** 
 - Descriptions: ... ... ... ...
+
 _________________________________________________________________________________
 
 
@@ -103,6 +113,7 @@ ________________________________________________________________________________
 - [Word-cloud](https://www.d3-graph-gallery.com/wordcloud)<<<click it to see the interactive demo
 - **Figure 3: an overall word-cloud for all extracted tweets.**  
 - Descriptions: ... ... ... ...
+
 _________________________________________________________________________________
 
 
@@ -111,6 +122,7 @@ ________________________________________________________________________________
 - [Word-cloud](https://www.d3-graph-gallery.com/wordcloud)<<<click it to see the interactive demo
 - **Figure 4: word-cloud dervied from different sentiment groups.** 
 - Descriptions: ... ... ... ...
+
 _________________________________________________________________________________
 
 
