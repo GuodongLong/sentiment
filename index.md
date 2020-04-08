@@ -25,7 +25,7 @@ https://ministers.dss.gov.au/anne-ruston/media-releases
 
 ### Interactive map
 
-This funciont will located on a seperated page with three frames. The frame one is to choose configurations for map, frame two is the MAP to display sum of counts over districts, and frame three is to display the detailed staticial information for the selected district. The arrangment could be vertical (preferred) or horizontal (as shown in picture). 
+This funcion is composed of three frames. The first frame is to choose configurations for map, the second frame is the MAP to display sum of counts over districts, and the third frame is to display the detailed staticial information for the selected district. The arrangment could be vertical (preferred) or horizontal (as shown in picture). 
 
 <img src="https://guodonglong.github.io/map-interactive.png" height="60%" width="60%">
 
