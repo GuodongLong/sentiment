@@ -22,7 +22,9 @@ The influenced count comaprison will be visualised by a race bar chart.
 - [Bar chart race](https://observablehq.com/@d3/bar-chart-race)<<<click it to see the interactive demo
 - **Figure 1. Comparison of social impact between misinformation and its opponents.**
 - Description: ...
+
 _________________________________________________________________________________
+
 
 The below figure display the spreading of misinformation over geo locations.
 <img src="https://guodonglong.github.io/sentiment/map-interactive-spread.png" height="60%" width="80%">
@@ -32,6 +34,8 @@ The below figure display the spreading of misinformation over geo locations.
 - Descriptions: ...
 
 _________________________________________________________________________________
+
+
 
 ### Data acquistion
 - Hashtags: #chloroquine
@@ -43,14 +47,11 @@ ________________________________________________________________________________
 
 ### Labelling tweets
 - Label 1: Believed/Positive/Supportive comments to the misinformation. The people who retweet the misinformation will aslo belong to the support of spreading misinformation.
-
-https://twitter.com/realDonaldTrump/status/1241367239900778501
-
-https://twitter.com/kakape/status/1247628714864771072
+-- [Traump's claim](https://twitter.com/realDonaldTrump/status/1241367239900778501)
+-- [Supportive message](https://twitter.com/kakape/status/1247628714864771072)
 
 - Label 2: Against/Negative/Fighting to the misinformation.
-
-https://twitter.com/NafdacAgency/status/1247459498031304704
+-- [Against message](https://twitter.com/NafdacAgency/status/1247459498031304704)
 
 - Label 3: Unrelated messages.
 
