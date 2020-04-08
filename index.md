@@ -1,4 +1,4 @@
-[Policy analysis](https://guodonglong.github.io/covid) | [Misinformation analysis](https://guodonglong.github.io/misinfo)
+[Policy analysis](https://guodonglong.github.io/sentiment) | [Misinformation analysis](https://guodonglong.github.io/sentiment/misinfo)
 
 ## Sentiment analysis for selected policy
 
