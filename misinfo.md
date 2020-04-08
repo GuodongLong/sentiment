@@ -5,7 +5,7 @@
 
 The spreading of misinformation will cause some unpredictable issues to the national healthcare system. 
 
-### Case 1: Use chloroquine to treat COVID-19
+### Case 1: Chloroquine has been approved to be used to treat COVID-19
 
 In tragic news a man is dead and his wife is making a recovery in the US after they ingested a version of chloroquine, a substance Donald Trump falsely claimed had been approved to treat coronavirus.
 
