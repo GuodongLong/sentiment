@@ -27,9 +27,9 @@ https://ministers.dss.gov.au/anne-ruston/media-releases
 
 This funcion is composed of three frames. The first frame is to choose configurations for map, the second frame is the MAP to display sum of counts over districts, and the third frame is to display the detailed staticial information for the selected district. The arrangment could be vertical (preferred) or horizontal (as shown in picture). 
 
-<img src="https://guodonglong.github.io/map-interactive.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/map-interactive.png" height="60%" width="60%">
 
-- [Interactive map](https://bl.ocks.org/GerardoFurtado/02aa65e5522104cb692e)
+- [Interactive map](https://bl.ocks.org/GerardoFurtado/02aa65e5522104cb692e) <<<click it to see the interactive demo
 - **Figure 1: An interactive map for summarised counts over locations.** 
 - Descriptions: ... ... ... ...
 
@@ -38,37 +38,37 @@ This funcion is composed of three frames. The first frame is to choose configura
 
 Each figure will occupy one page as similar to [COVID19 analytics report](https://www.covid19data.com.au/). 
 
-<img src="https://guodonglong.github.io/bar-chart-race.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/bar-chart-race.png" height="60%" width="60%">
 
-- [Bar chart race](https://observablehq.com/@d3/bar-chart-race), a dynamic chart to demonstrate the changes of counts in different category)
+- [Bar chart race](https://observablehq.com/@d3/bar-chart-race)<<<click it to see the interactive demo
 - **Figure 5: Sentiment trends over time for selected policy (counted on # of tweets)** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/pie-chart.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/pie-chart.png" height="60%" width="60%">
 
-- [Pie chart](https://www.d3-graph-gallery.com/pie)
+- [Pie chart](https://www.d3-graph-gallery.com/pie)<<<click it to see the interactive demo
 - **Figure 1: Percentage for different sentiment groups.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/bar-chart-group.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/bar-chart-group.png" height="60%" width="60%">
 
-- [Grouped bar chart](https://observablehq.com/@d3/grouped-bar-chart)
+- [Grouped bar chart](https://observablehq.com/@d3/grouped-bar-chart)<<<click it to see the interactive demo
 - **Figure 2: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different age level.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/bar-chart-group.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/bar-chart-group.png" height="60%" width="60%">
 
-- [Grouped bar chart](https://observablehq.com/@d3/grouped-bar-chart)). 
+- [Grouped bar chart](https://observablehq.com/@d3/grouped-bar-chart)<<<click it to see the interactive demo
 - **Figure 3: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different gender.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/map-bubble.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/map-bubble.png" height="60%" width="60%">
 
--[Bubble map](https://www.d3-graph-gallery.com/bubblemap.html)
+-[Bubble map](https://www.d3-graph-gallery.com/bubblemap.html)<<<click it to see the interactive demo
 - **Figure 4: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different state.** 
 - Descriptions: ... ... ... ...
 
@@ -78,30 +78,30 @@ Each figure will occupy one page as similar to [COVID19 analytics report](https:
 
 Each figure will occupy one page. Moreover, each word is linked to a list of related tweets that is ranked by the impact (# of retweets + # of likes).
 
-<img src="https://guodonglong.github.io/table.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/table.png" height="60%" width="60%">
 
-- [Table chart](http://bl.ocks.org/AMDS/4a61497182b8fcb05906)
+- [Table chart](http://bl.ocks.org/AMDS/4a61497182b8fcb05906)<<<click it to see the interactive demo
 - **Figure 1: an overall list of topics derived from the tweets using topic modelling.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/table.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/table.png" height="60%" width="60%">
 
-- [Table chart](http://bl.ocks.org/AMDS/4a61497182b8fcb05906)
+- [Table chart](http://bl.ocks.org/AMDS/4a61497182b8fcb05906)<<<click it to see the interactive demo
 - **Figure 2: topics derived from different sentiment groups.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/word-cloud.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/word-cloud.png" height="60%" width="60%">
 
-- [Word-cloud](https://www.d3-graph-gallery.com/wordcloud)
+- [Word-cloud](https://www.d3-graph-gallery.com/wordcloud)<<<click it to see the interactive demo
 - **Figure 3: an overall word-cloud for all extracted tweets.**  
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/word-cloud.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/word-cloud.png" height="60%" width="60%">
 
-- [Word-cloud](https://www.d3-graph-gallery.com/wordcloud)
+- [Word-cloud](https://www.d3-graph-gallery.com/wordcloud)<<<click it to see the interactive demo
 - **Figure 4: word-cloud dervied from different sentiment groups.** 
 - Descriptions: ... ... ... ...
 
