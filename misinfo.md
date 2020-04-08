@@ -17,21 +17,21 @@ President Trump claimed at a press conference on March 19 that the US would be m
 We compare the social impact of misinformation and the opponents who are fighting to the misinformation. The social impact will be calculated by counting # of tweets, # of retweets, # of likes, and # of audiences. If a person received the misinformation at earlier stage, we will count him/her as Believed group (Label 1). If this person received the message against misinformation, we will categorise him/her to the Against group (Label 2).
 
 The influenced count comaprison will be visualised by a race bar chart. 
-<img src="https://guodonglong.github.io/sentiment/bar-chart-race.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/bar-chart-race.png" height="60%" width="80%">
 
 - [Bar chart race](https://observablehq.com/@d3/bar-chart-race)<<<click it to see the interactive demo
 - **Figure 1. Comparison of social impact between misinformation and its opponents.**
 - Description: ...
-
+_________________________________________________________________________________
 
 The below figure display the spreading of misinformation over geo locations.
-<img src="https://guodonglong.github.io/sentiment/map-interactive-spread.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/map-interactive-spread.png" height="60%" width="80%">
 
 - [Interactive map](https://bl.ocks.org/GerardoFurtado/02aa65e5522104cb692e)<<<click it to see the interactive demo
 - **Figure 1: An interactive map to demonstrate the influence of misinformation and its components.** 
 - Descriptions: ...
 
-
+_________________________________________________________________________________
 
 ### Data acquistion
 - Hashtags: #chloroquine
