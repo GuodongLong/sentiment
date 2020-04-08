@@ -11,12 +11,6 @@ In tragic news a man is dead and his wife is making a recovery in the US after t
 
 President Trump claimed at a press conference on March 19 that the US would be making chloroquine, used to treat malaria, "available almost immediately" and that it had been approved by the Food and Drug Administration.
 
-#### Data acquistion
-- Hashtags: #chloroquine
-- Related keywords: Donald Trump, Coronavirus.
-- Time: Since 19 Mar 2020
-- The data will be collected through a depth-first search. We search the tweets using the Hashtags, and then searched who retweet or like this message. Once we get all tweets related to this topic, we also need to acquire the involved accounts and their followers who can see the message but never take any actions on social media. 
-
 
 #### Misinformation propgation on social networks
 
@@ -36,6 +30,14 @@ The below figure display the spreading of misinformation over geo locations.
 - [Interactive map](https://bl.ocks.org/GerardoFurtado/02aa65e5522104cb692e)
 - **Figure 1: An interactive map to demonstrate the influence of misinformation and its components.** 
 - Descriptions: ...
+
+
+
+#### Data acquistion
+- Hashtags: #chloroquine
+- Related keywords: Donald Trump, Coronavirus.
+- Time: Since 19 Mar 2020
+- The data will be collected through a depth-first search. We search the tweets using the Hashtags, and then searched who retweet or like this message. Once we get all tweets related to this topic, we also need to acquire the involved accounts and their followers who can see the message but never take any actions on social media. 
 
 
 
