@@ -27,46 +27,46 @@ https://ministers.dss.gov.au/anne-ruston/media-releases
 
 This funcion is composed of three frames. The first frame is to choose configurations for map, the second frame is the MAP to display sum of counts over districts, and the third frame is to display the detailed staticial information for the selected district. The arrangment could be vertical (preferred) or horizontal (as shown in picture). 
 
-<img src="https://guodonglong.github.io/sentiment/map-interactive.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/map-interactive.png" height="60%" width="80%">
 
 - [Interactive map](https://bl.ocks.org/GerardoFurtado/02aa65e5522104cb692e) <<<click it to see the interactive demo
 - **Figure 1: An interactive map for summarised counts over locations.** 
 - Descriptions: ... ... ... ...
 
 
-### Statistic analysis for sentiment analysis (Xueping to complete)
+### Statistic analysis for sentiment analysis
 
 Each figure will occupy one page as similar to [COVID19 analytics report](https://www.covid19data.com.au/). 
 
-<img src="https://guodonglong.github.io/sentiment/bar-chart-race.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/bar-chart-race.png" height="60%" width="80%">
 
 - [Bar chart race](https://observablehq.com/@d3/bar-chart-race)<<<click it to see the interactive demo
 - **Figure 5: Sentiment trends over time for selected policy (counted on # of tweets)** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/sentiment/pie-chart.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/pie-chart.png" height="60%" width="80%">
 
 - [Pie chart](https://www.d3-graph-gallery.com/pie)<<<click it to see the interactive demo
 - **Figure 1: Percentage for different sentiment groups.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/sentiment/bar-chart-group.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/bar-chart-group.png" height="60%" width="80%">
 
 - [Grouped bar chart](https://observablehq.com/@d3/grouped-bar-chart)<<<click it to see the interactive demo
 - **Figure 2: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different age level.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/sentiment/bar-chart-group.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/bar-chart-group.png" height="60%" width="80%">
 
 - [Grouped bar chart](https://observablehq.com/@d3/grouped-bar-chart)<<<click it to see the interactive demo
 - **Figure 3: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different gender.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/sentiment/map-bubble.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/map-bubble.png" height="60%" width="80%">
 
 -[Bubble map](https://www.d3-graph-gallery.com/bubblemap.html)<<<click it to see the interactive demo
 - **Figure 4: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different state.** 
@@ -74,32 +74,32 @@ Each figure will occupy one page as similar to [COVID19 analytics report](https:
 
 
 
-### Topic summarisation (David to complete)
+### Topic summarisation
 
 Each figure will occupy one page. Moreover, each word is linked to a list of related tweets that is ranked by the impact (# of retweets + # of likes).
 
-<img src="https://guodonglong.github.io/sentiment/table.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/table.png" height="60%" width="80%">
 
 - [Table chart](http://bl.ocks.org/AMDS/4a61497182b8fcb05906)<<<click it to see the interactive demo
 - **Figure 1: an overall list of topics derived from the tweets using topic modelling.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/sentiment/table.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/table.png" height="60%" width="80%">
 
 - [Table chart](http://bl.ocks.org/AMDS/4a61497182b8fcb05906)<<<click it to see the interactive demo
 - **Figure 2: topics derived from different sentiment groups.** 
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/sentiment/word-cloud.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/word-cloud.png" height="60%" width="80%">
 
 - [Word-cloud](https://www.d3-graph-gallery.com/wordcloud)<<<click it to see the interactive demo
 - **Figure 3: an overall word-cloud for all extracted tweets.**  
 - Descriptions: ... ... ... ...
 
 
-<img src="https://guodonglong.github.io/sentiment/word-cloud.png" height="60%" width="60%">
+<img src="https://guodonglong.github.io/sentiment/word-cloud.png" height="60%" width="80%">
 
 - [Word-cloud](https://www.d3-graph-gallery.com/wordcloud)<<<click it to see the interactive demo
 - **Figure 4: word-cloud dervied from different sentiment groups.** 
@@ -120,7 +120,8 @@ About this policy, there are sveral kinds of discussion:
 All tweets will be categorised to the above five classes. In particular, Label 1 belongs to negative, Label 2 belongs to positive, label 3~5 belongs to neural comments. 
 
 
-### Labeling process with active learning framework (Peng Yan & Tao Shen to complete)
+
+### Labeling process with active learning framework
 - Step 1: extracting 20,000 tweets (instances in machine learning terminology) from the date of policy published. 
 - Step 2: randomly selecting 1% instances (say 200) 
 - Step 3: asking four assessors (two males and two females with different background) to label the selected instances. 
