@@ -1,6 +1,6 @@
 [Policy analysis](https://guodonglong.github.io/covid) | [Misinformation analysis](https://guodonglong.github.io/misinfo)
 
-# Public opinion analysis for Coronavirus (COVID-19) in Australia
+# Sentiment analysis for selected policy
 
 "Government and public service delivery is taking place in a changed world. A significant level of social, economic and political activity is now happening on the internet. This work explores wheter social media data can improve the quality and timeliness of the evidence base that informs public policy. Can the myriad of human connections and interactions on the web provide insight to enable government to develop better policy, understand its subsequent impact and inform the many different organisations that deliver public services?" [Report for Social Media And Public Policy](https://www.alliance4usefulevidence.org/assets/Social-Media-and-Public-Policy.pdf)
 
@@ -14,7 +14,8 @@ In this work, we will use publicly aviable information on social media to study 
 
 
 # Policy analysis
-## Case 1: Additional $1,100 paymemt a fortnight for JobSeekers
+
+## Case 1: JobSeekers payment with additional $1,100 paymemt a fortnight 
 You may get a payment from Service Australiai (formerly known as Centrelink) if you or your family are affected by the coronavirus pandemic. You may get 1 of the following payments: [Youth Allowance](https://www.servicesaustralia.gov.au/individuals/services/centrelink/youth-allowance), [JobSeeker (Newstart) Payment](https://www.servicesaustralia.gov.au/individuals/services/centrelink/jobseeker-payment), and [Parenting Payment](https://www.servicesaustralia.gov.au/individuals/services/centrelink/parenting-payment). That is an additional payment for $1100 per fortnight that is doubling the orginal JobSeeker allowance. ([policy link](https://www.servicesaustralia.gov.au/individuals/subjects/affected-coronavirus-covid-19/if-you-need-payment-coronavirus-covid-19)).
 
 
@@ -23,30 +24,29 @@ https://www.dss.gov.au/about-the-department/coronavirus-covid-19-information-and
 https://ministers.dss.gov.au/anne-ruston/media-releases
 
 
-### Twitter Hashtags or Keywords
-#JobSeeker, #Newstart (#Centrelink, #ServiceAustralia, #COVID-19)
-About this policy, there are sveral kinds of discussion:
-- Label 1: **Critised/Negative comments** - mainly from ineligble population who feel unfair.
-- Label 2: **Compliment/Positive comments** - mainly from eligble population who benefit from this policy.
-- Label 3: **Suggestive/Neural comments** - Sugget to cover more populations with difficulties - normally from politic people
-- Label 4: **Informative/Neural comments** - Diffusing the information or willing to provide assitance or support related to this policy. 
-- Label 5: **Other related comments** - the comments is related to the policy but canot be categorised to above labels.
-- Label 6: **Unrelated information** - the comments are not related to the policy.
-
-All tweets will be categorised to the above five classes. In particular, Label 1 belongs to negative, Label 2 belongs to positive, label 3~5 belongs to neural comments. 
 
 
-### Labeling process with active learning framework (Peng Yan & Tao Shen to complete)
-- Step 1: extracting 20,000 tweets (instances in machine learning terminology) from the date of policy published. 
-- Step 2: randomly selecting 1% instances (say 200) 
-- Step 3: asking four assessors (two males and two females with different background) to label the selected instances. 
-- Step 4: training a multi-class classifier using BERT or Bi-LSTM or Random Forest or Gradient Boosting, and then use the classifier to predict the pesudo label for all unlabelled instances. .
-- Step 5: selecting another 1% unlabelled instances with the most uncentain prediction, and then go to Step 3 till K rounds (say K=5) or accuracy/precision/F1-score achieve the desired fiigure (say 80%). Different assessors in each round are preferred.
+
+### Interactive map (Xueping to complete)
+
+This funciont will located on a seperated page with three frames. The frame one is to choose configurations for map, frame two is the MAP to display sum of counts over districts, and frame three is to display the detailed staticial information for the selected district. The arrangment could be vertical (preferred) or horizontal (as shown in picture). 
+
+<img src="https://guodonglong.github.io/map-interactive.png" height="60%" width="60%">
+
+- [Interactive map](https://bl.ocks.org/GerardoFurtado/02aa65e5522104cb692e)
+- **Figure 1: An interactive map for summarised counts over locations.** 
+- Descriptions: ... ... ... ...
 
 
 ### Statistic analysis for sentiment analysis (Xueping to complete)
 
 Each figure will occupy one page as similar to [COVID19 analytics report](https://www.covid19data.com.au/). 
+
+<img src="https://guodonglong.github.io/bar-chart-race.png" height="60%" width="60%">
+
+- [Bar chart race](https://observablehq.com/@d3/bar-chart-race), a dynamic chart to demonstrate the changes of counts in different category)
+- **Figure 5: Sentimen trends (counted on # of tweets) by time.** 
+- Descriptions: ... ... ... ...
 
 
 <img src="https://guodonglong.github.io/pie-chart.png" height="60%" width="60%">
@@ -74,13 +74,6 @@ Each figure will occupy one page as similar to [COVID19 analytics report](https:
 
 -[Bubble map](https://www.d3-graph-gallery.com/bubblemap.html)
 - **Figure 4: Sentiment comparison (counted on # of tweets, # or persons/accounts, # of retweets, # of likes, # of discussions) on different state.** 
-- Descriptions: ... ... ... ...
-
-
-<img src="https://guodonglong.github.io/bar-chart-race.png" height="60%" width="60%">
-
-- [Bar chart race](https://observablehq.com/@d3/bar-chart-race), a dynamic chart to demonstrate the changes of counts in different category)
-- **Figure 5: Sentimen trends (counted on # of tweets) by time.** 
 - Descriptions: ... ... ... ...
 
 
@@ -118,13 +111,23 @@ Each figure will occupy one page. Moreover, each word is linked to a list of rel
 
 
 
-# Interactive map (Xueping to complete)
+### Twitter Hashtags or Keywords
+#JobSeeker, #Newstart (#Centrelink, #ServiceAustralia, #COVID-19)
+About this policy, there are sveral kinds of discussion:
+- Label 1: **Critised/Negative comments** - mainly from ineligble population who feel unfair.
+- Label 2: **Compliment/Positive comments** - mainly from eligble population who benefit from this policy.
+- Label 3: **Suggestive/Neural comments** - Sugget to cover more populations with difficulties - normally from politic people
+- Label 4: **Informative/Neural comments** - Diffusing the information or willing to provide assitance or support related to this policy. 
+- Label 5: **Other related comments** - the comments is related to the policy but canot be categorised to above labels.
+- Label 6: **Unrelated information** - the comments are not related to the policy.
 
-This funciont will located on a seperated page with three frames. The frame one is to choose configurations for map, frame two is the MAP to display sum of counts over districts, and frame three is to display the detailed staticial information for the selected district. The arrangment could be vertical (preferred) or horizontal (as shown in picture). 
+All tweets will be categorised to the above five classes. In particular, Label 1 belongs to negative, Label 2 belongs to positive, label 3~5 belongs to neural comments. 
 
-<img src="https://guodonglong.github.io/map-interactive.png" height="60%" width="60%">
 
-- [Interactive map](https://bl.ocks.org/GerardoFurtado/02aa65e5522104cb692e)
-- **Figure 1: An interactive map for summarised counts over locations.** 
-- Descriptions: ... ... ... ...
+### Labeling process with active learning framework (Peng Yan & Tao Shen to complete)
+- Step 1: extracting 20,000 tweets (instances in machine learning terminology) from the date of policy published. 
+- Step 2: randomly selecting 1% instances (say 200) 
+- Step 3: asking four assessors (two males and two females with different background) to label the selected instances. 
+- Step 4: training a multi-class classifier using BERT or Bi-LSTM or Random Forest or Gradient Boosting, and then use the classifier to predict the pesudo label for all unlabelled instances. .
+- Step 5: selecting another 1% unlabelled instances with the most uncentain prediction, and then go to Step 3 till K rounds (say K=5) or accuracy/precision/F1-score achieve the desired fiigure (say 80%). Different assessors in each round are preferred.
 
