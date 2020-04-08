@@ -13,7 +13,7 @@ The most powerful social insights presented by social media include those on:
 In this work, we will use publicly aviable information on social media to study 1) how people's feeling and sentiment for the recent policies related to COVID-19, and 2) how the misinformation about COVID-19 will be diffused to impact the national healthcare system. All data used in this work comes from publicly available information on social media platform. The analytics results is for research usage only.
 
 
-## Case 1: JobSeekers payment with additional $1,100 paymemt a fortnight 
+## Case 1: Additional $11,00 per fortnight payment to JobSeekers/NewStarts
 You may get a payment from Service Australiai (formerly known as Centrelink) if you or your family are affected by the coronavirus pandemic. You may get 1 of the following payments: [Youth Allowance](https://www.servicesaustralia.gov.au/individuals/services/centrelink/youth-allowance), [JobSeeker (Newstart) Payment](https://www.servicesaustralia.gov.au/individuals/services/centrelink/jobseeker-payment), and [Parenting Payment](https://www.servicesaustralia.gov.au/individuals/services/centrelink/parenting-payment). That is an additional payment for $1100 per fortnight that is doubling the orginal JobSeeker allowance. ([policy link](https://www.servicesaustralia.gov.au/individuals/subjects/affected-coronavirus-covid-19/if-you-need-payment-coronavirus-covid-19)).
 
 
@@ -23,7 +23,7 @@ https://ministers.dss.gov.au/anne-ruston/media-releases
 
 
 
-### Interactive map (Xueping to complete)
+### Interactive map
 
 This funciont will located on a seperated page with three frames. The frame one is to choose configurations for map, frame two is the MAP to display sum of counts over districts, and frame three is to display the detailed staticial information for the selected district. The arrangment could be vertical (preferred) or horizontal (as shown in picture). 
 
@@ -41,7 +41,7 @@ Each figure will occupy one page as similar to [COVID19 analytics report](https:
 <img src="https://guodonglong.github.io/bar-chart-race.png" height="60%" width="60%">
 
 - [Bar chart race](https://observablehq.com/@d3/bar-chart-race), a dynamic chart to demonstrate the changes of counts in different category)
-- **Figure 5: Sentimen trends (counted on # of tweets) by time.** 
+- **Figure 5: Sentiment trends over time for selected policy (counted on # of tweets)** 
 - Descriptions: ... ... ... ...
 
 
