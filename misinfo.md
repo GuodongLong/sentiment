@@ -19,7 +19,7 @@ We compare the social impact of misinformation and the opponents who are fightin
 The influenced count comaprison will be visualised by a race bar chart. 
 <img src="https://guodonglong.github.io/sentiment/bar-chart-race.png" height="60%" width="60%">
 
-- [Bar chart race](https://observablehq.com/@d3/bar-chart-race), a dynamic chart to demonstrate the changes of counts in different category)
+- [Bar chart race](https://observablehq.com/@d3/bar-chart-race)<<<click it to see the interactive demo
 - **Figure 1. Comparison of social impact between misinformation and its opponents.**
 - Description: ...
 
@@ -27,7 +27,7 @@ The influenced count comaprison will be visualised by a race bar chart.
 The below figure display the spreading of misinformation over geo locations.
 <img src="https://guodonglong.github.io/sentiment/map-interactive-spread.png" height="60%" width="60%">
 
-- [Interactive map](https://bl.ocks.org/GerardoFurtado/02aa65e5522104cb692e)
+- [Interactive map](https://bl.ocks.org/GerardoFurtado/02aa65e5522104cb692e)<<<click it to see the interactive demo
 - **Figure 1: An interactive map to demonstrate the influence of misinformation and its components.** 
 - Descriptions: ...
 
