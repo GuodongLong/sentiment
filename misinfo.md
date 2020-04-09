@@ -56,5 +56,5 @@ ________________________________________________________________________________
 - Label 3: Unrelated messages.
 
 
-Notice: There is no neural comments for the misinformation. If you spread the misinformation, you will be part of the believed poputaion. The labelling process could be an active learning process.
+Notice: There is no neural comments for the misinformation. If you spread the misinformation without comments, you will be part of the believed poputaion. The labelling process could be an active learning process.
 
