@@ -132,8 +132,8 @@ ________________________________________________________________________________
 About this policy, there are sveral kinds of discussion:
 - Label 1: **Critised/Negative comments** - mainly from ineligble population who feel unfair.
 - Label 2: **Compliment/Positive comments** - mainly from eligble population who benefit from this policy.
-- Label 3: **Suggestive/Neural comments** - Sugget to cover more populations with difficulties - normally from politic people
-- Label 4: **Informative/Neural comments** - Diffusing the information or willing to provide assitance or support related to this policy. 
+- Label 3: **Suggestive/Neutral comments** - Sugget to cover more populations with difficulties - normally from politic people
+- Label 4: **Informative/Neutral comments** - Diffusing the information or willing to provide assitance or support related to this policy. 
 - Label 5: **Other related comments** - the comments is related to the policy but canot be categorised to above labels.
 - Label 6: **Unrelated information** - the comments are not related to the policy.
 
