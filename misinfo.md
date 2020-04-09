@@ -3,7 +3,7 @@
 
 ## Misinformation analytics
 
-The spreading of misinformation will cause some unpredictable issues to the national healthcare system. 
+The spreading of misinformation will cause some unpredictable issues to the national healthcare system, such panic buying, drag misuse and wrong treatments. 
 
 ## Case 1: Chloroquine has been approved to be used to treat COVID-19
 
