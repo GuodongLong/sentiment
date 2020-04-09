@@ -18,8 +18,8 @@ You may get a payment from Service Australiai (formerly known as Centrelink) if 
 
 
 To find more policy about Department of Social Services, please look at below links. 
-https://www.dss.gov.au/about-the-department/coronavirus-covid-19-information-and-support
-https://ministers.dss.gov.au/anne-ruston/media-releases
+[Depart of Social Service](https://www.dss.gov.au/about-the-department/coronavirus-covid-19-information-and-support)
+[Minister of DSS](https://ministers.dss.gov.au/anne-ruston/media-releases)
 
 
 
